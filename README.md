@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @BillalCH
-- 👀 I’m interested in big data 
+- 👋 Hi, I’m @Billal CHELBI
+- 👀 I’m interested in Data science , statistics ,Machine learning algorithms
   
 
 
